@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../1open_image/.idea/1_open_image.iml" filepath="$PROJECT_DIR$/../1open_image/.idea/1_open_image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1open_image/.idea/1open_image.iml" filepath="$PROJECT_DIR$/../1open_image/.idea/1open_image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2paint/.idea/2paint.iml" filepath="$PROJECT_DIR$/../2paint/.idea/2paint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../3video_capture/.idea/3video_capture.iml" filepath="$PROJECT_DIR$/../3video_capture/.idea/3video_capture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../4Mouse_callback/.idea/Mouse_callback.iml" filepath="$PROJECT_DIR$/../4Mouse_callback/.idea/Mouse_callback.iml" />
+    </modules>
+  </component>
+</project>
